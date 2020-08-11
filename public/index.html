@@ -33,7 +33,6 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
-    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-app.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script>
       window.jQuery ||
@@ -54,19 +53,13 @@
     <!-- TODO: Add SDKs for Firebase products that you want to use
      https://firebase.google.com/docs/web/setup#available-libraries -->
 
-    <script>
-      // Your web app's Firebase configuration
-      var firebaseConfig = {
-        apiKey: "AIzaSyCJAD_Dw61-mxzjldPSPxfe60Idg587vpw",
-        authDomain: "myportfolio-c7692.firebaseapp.com",
-        databaseURL: "https://myportfolio-c7692.firebaseio.com",
-        projectId: "myportfolio-c7692",
-        storageBucket: "myportfolio-c7692.appspot.com",
-        messagingSenderId: "259870532460",
-        appId: "1:259870532460:web:7d933cc6b099f2aa4f0949",
-      };
-      // Initialize Firebase
-      firebase.initializeApp(firebaseConfig);
-    </script>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="/__/firebase/7.17.2/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+    <!-- Initialize Firebase -->
+    <script src="/__/firebase/init.js"></script>
   </body>
 </html>
