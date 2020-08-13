@@ -19,7 +19,8 @@ const Contact = (props) => {
       </div>
       <div className="row">
         <div className="eigh columns">
-          <Form action="" method="post" id="contactForm" name="contactForm">
+          {/* <Form action="" method="post" id="contactForm" name="contactForm"> */}
+          <Form id="contactForm" name="contactForm">
             <Form.Item
               label="Name"
               htmlFor="contactName"
