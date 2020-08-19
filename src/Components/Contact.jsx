@@ -20,7 +20,12 @@ const Contact = (props) => {
       <div className="row">
         <div className="eigh columns">
           {/* <Form action="" method="post" id="contactForm" name="contactForm"> */}
-          <Form id="contactForm" name="contactForm">
+          <Form
+            id="contactForm"
+            action="https://formspree.io/mpzyedqj"
+            method="POST"
+            name="contactForm"
+          >
             <Form.Item
               label="Name"
               htmlFor="contactName"

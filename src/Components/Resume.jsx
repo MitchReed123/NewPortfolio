@@ -69,7 +69,7 @@ const Resume = (props) => {
               <em className="date">6 months</em>
             </p>
             <p>
-              While working at Vectren Gas/Election I Collaborated with the Data
+              While working at Vectren Gas/Electric I Collaborated with the Data
               Visualization team using OBIEE to enhance data retrieval and
               analysis. Performed Data Visualization and Analysis utilizing a
               big data environment.

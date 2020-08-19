@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import { DownloadOutlined } from "@ant-design/icons";
+import { DownloadOutlined, LinkOutlined } from "@ant-design/icons";
 const About = (props) => {
   return (
     <section id="about">
@@ -44,9 +44,13 @@ const About = (props) => {
             </div>
             <div className="columns download">
               <p>
-                <a href="" className="button">
-                  <DownloadOutlined className="fa fa-download" />
-                  Download Resume
+                <a
+                  href="https://drive.google.com/file/d/12J975PMDuEBR7fg2541ZW7oRS2v6pjsl/view?ths=true"
+                  className="button"
+                  target="_blank"
+                >
+                  <LinkOutlined className="fa fa-download" />
+                  My Resume
                 </a>
               </p>
             </div>
