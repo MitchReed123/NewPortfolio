@@ -16,20 +16,7 @@ const About = (props) => {
           <h2>About Me</h2>
 
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus
-            corrupti ut voluptatibus est voluptatem exercitationem, cum
-            laboriosam in veniam placeat facilis unde, veritatis alias voluptas
-            consequatur, dolorem recusandae expedita corporis! Lorem ipsum dolor
-            sit amet consectetur adipisicing elit. Tempore a quisquam soluta
-            dolor sunt, ut itaque? Facere, autem quidem maxime aut porro
-            repellat? Ratione eligendi sequi odio molestiae magnam quisquam.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea quos
-            distinctio sint placeat culpa similique eligendi facilis? Voluptas
-            recusandae quo modi doloribus. Tempora magnam a quasi illo? Eveniet,
-            odio esse. Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Nostrum autem dolore, delectus facere aut impedit, sint temporibus
-            porro commodi sit culpa consectetur, provident iste doloribus
-            exercitationem esse hic alias natus.
+            Hello, I'm a Indianapolis based developer using React/TSX and C#.
           </p>
           <div className="row">
             <div className="columns contact-details">
