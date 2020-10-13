@@ -34,7 +34,6 @@ const About = (props) => {
                 <a
                   href="https://drive.google.com/file/d/12J975PMDuEBR7fg2541ZW7oRS2v6pjsl/view?ths=true"
                   className="button"
-                  target="_blank"
                 >
                   <LinkOutlined className="fa fa-download" />
                   My Resume

@@ -15,7 +15,6 @@ const Portfolio = (props) => {
                 <a
                   href="https://github.com/MitchReed123/APIProject"
                   title="NASA API"
-                  target="_blank"
                 >
                   <img
                     alt="title here"
@@ -38,7 +37,6 @@ const Portfolio = (props) => {
                 <a
                   href="https://github.com/MitchReed123/GigHub"
                   title="NASA API"
-                  target="_blank"
                 >
                   <img
                     alt="title here"
@@ -61,7 +59,6 @@ const Portfolio = (props) => {
                 <a
                   href="https://lottoclient.herokuapp.com/#/"
                   title="Lotto App"
-                  target="_blank"
                 >
                   <img
                     alt="Lotto App"
@@ -87,7 +84,6 @@ const Portfolio = (props) => {
                 <a
                   href="https://mr-ratings.herokuapp.com/"
                   title="Movie Rating"
-                  target="_blank"
                 >
                   <img
                     alt="Movie Rating"
@@ -113,7 +109,6 @@ const Portfolio = (props) => {
                 <a
                   href="https://investtracker.azurewebsites.net/"
                   title="Invest App"
-                  target="_blank"
                 >
                   <img
                     alt="Invest"

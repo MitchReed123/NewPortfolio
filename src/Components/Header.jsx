@@ -60,16 +60,10 @@ const Header = (props) => {
           </h3>
           <hr />
           <ul className="social">
-            <a
-              href="https://github.com/mitchReed123?tab=repositories"
-              target="_blank"
-            >
+            <a href="https://github.com/mitchReed123?tab=repositories">
               <GithubOutlined />
             </a>
-            <a
-              href="https://www.linkedin.com/in/mitchell-reed-7923a9aa/"
-              target="_blank"
-            >
+            <a href="https://www.linkedin.com/in/mitchell-reed-7923a9aa/">
               <LinkedinOutlined />
             </a>
           </ul>
