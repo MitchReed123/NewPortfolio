@@ -91,7 +91,7 @@ const Resume = (props) => {
           <div className="bars">
             <ul className="skills">
               <li>
-                <span style={{ width: "60%" }} className="bar-expand"></span>
+                <span style={{ width: "75%" }} className="bar-expand"></span>
                 <em>GIT</em>
               </li>
               <li>
@@ -111,7 +111,7 @@ const Resume = (props) => {
                 <em>TSX</em>
               </li>
               <li>
-                <span style={{ width: "10%" }} className="bar-expand"></span>
+                <span style={{ width: "60%" }} className="bar-expand"></span>
                 <em>C#</em>
               </li>
             </ul>

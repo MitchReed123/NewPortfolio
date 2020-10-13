@@ -111,13 +111,13 @@ const Portfolio = (props) => {
             <div className="columns portoflio-item">
               <div className="item-wrap">
                 <a
-                  href="https://github.com/MitchReed123/Invest-Client"
-                  title="Invest Client"
+                  href="https://investtracker.azurewebsites.net/"
+                  title="Invest App"
                   target="_blank"
                 >
                   <img
                     alt="Invest"
-                    src={require("../images/portImages/investPic.png")}
+                    src={require("../images/portImages/investApp.png")}
                     className="itemImages"
                   />
                   <div className="overlay">

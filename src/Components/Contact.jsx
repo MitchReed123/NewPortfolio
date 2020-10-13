@@ -11,10 +11,7 @@ const Contact = (props) => {
           </h1>
         </div>
         <div className="ten columns">
-          <p className="lead">
-            Here is where you should write your message to readers to have them
-            get in contact with you
-          </p>
+          <p className="lead">I would love to hear from you!</p>
         </div>
       </div>
       <div className="row">
